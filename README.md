@@ -42,7 +42,7 @@
 </pre>
 </div>
 
-<!-- Mr. Robot style terminal typing -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00FF41&center=true&vCenter=true&width=900&lines=fsociety@cracko34%3A~%24+sudo+su+-;Backend+%7C+Security+Researcher+%7C+Data+Analyst;Hacking+the+system...+one+vulnerability+at+a+time;%22Are+you+a+one+or+a+zero%3F%22;Power+belongs+to+the+people...+in+code+we+trust" />
 </p>
@@ -102,11 +102,7 @@
 </div>
 
 ---
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-gabriel-ortiz)
 
 
 </div>
@@ -115,17 +111,17 @@
 
 <div align="center">
 <pre>
-   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
- ╱                                                                       ╲
-╱    ┌─────────────────────────────────────────────────────────────────┐  ╲
-│    │ cracko34@fsociety has left the chat                             │   │
-│    │ Last seen: Fighting the system                                  │   │
-│    │ Status: "Are you a 1 or a 0?"                                   │   │
-│    │                                                                 │   │
-│    │ [TRANSMISSION ENDED] - fsociety.exe stopped                     │   │
-│    └─────────────────────────────────────────────────────────────────┘   │
-╲                                                                         ╱
- ╲▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂╱
+        ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+      ╱                                                                        ╲
+     ╱    ┌─────────────────────────────────────────────────────────────────┐   ╲
+    │     │ cracko34@fsociety has left the chat                             │    │
+    │     │ Last seen: Fighting the system                                  │    │
+    │     │ Status: "Are you a 1 or a 0?"                                   │    │
+    │     │                                                                 │    │
+    │     │ [TRANSMISSION ENDED] - fsociety.exe stopped                     │    │
+    │     └─────────────────────────────────────────────────────────────────┘    │
+    ╲                                                                           ╱
+     ╲▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂/
 </pre>
 </div>
 <!-- Hidden Message for fellow hackers -->
