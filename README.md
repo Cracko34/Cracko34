@@ -49,7 +49,7 @@
 
 
 ---
-### ⚡ Arsenal de Herramientas
+### ⚡Herramientas
 <div align="center">
 
 |                                                **Core Languages**                                                 |                                              **Backend & Analysis**                                               |                                                **Security Tools**                                                 |                                               **Operating Systems**                                               |
@@ -60,9 +60,7 @@
 | ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white) |     ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)      |      ![Networking](https://img.shields.io/badge/Networking-00FF77?style=for-the-badge&logo=cisco&logoColor=black)      |                                                                                                                   |
 |           ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)            |      ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)      | ![Social Engineering](https://img.shields.io/badge/Social_Engineering-8B0000?style=for-the-badge&logo=anonymous&logoColor=white) |                                                                                                                   |
 |        ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)        |        ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)        |          ![OSINT](https://img.shields.io/badge/OSINT-FFA500?style=for-the-badge&logo=searchengin&logoColor=white)          |                                                                                                                   |
-
 </div>
----
 
 ---
 <div align="center">
@@ -95,7 +93,7 @@
 
 ---
 
-### 🐍 Contribution Matrix (Snake in the System)
+### 🐍 Contribution
 
 <div align="center">
 
