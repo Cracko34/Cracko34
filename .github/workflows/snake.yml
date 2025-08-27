@@ -1,9 +1,9 @@
-name: Generate Snake
+name: Generate fsociety Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # corre todos los días a medianoche
-  workflow_dispatch: # permite ejecutarlo manualmente desde Actions
+    - cron: "0 */6 * * *" # cada 6 horas
+  workflow_dispatch: # manual trigger
   push:
     branches:
       - main
@@ -19,18 +19,19 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate Snake Animation
+      - name: Generate Snake Animation (Mr. Robot Style)
         uses: Platane/snk@v3
         with:
           github_user_name: Cracko34
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2300ff41&color_dots=%23161b22,0d1117,00ff41,39d353,26a641,006a2b
 
-      - name: Push to output branch
+      - name: Push to fsociety branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "fsociety: Updated contribution snake 🐍🎭"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
