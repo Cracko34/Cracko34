@@ -30,7 +30,7 @@
 
 <!-- Mr. Robot style terminal typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00FF41&center=true&vCenter=true&width=900&lines=fsociety@cracko34%3A~%24+sudo+su+-;root@darknet%3A~%23+whoami;Backend+Developer+%7C+Security+Researcher+%7C+Data+Analyst;Hacking+the+system...+one+vulnerability+at+a+time;%22Are+you+a+one+or+a+zero%3F%22;Power+belongs+to+the+people...+in+code+we+trust" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00FF41&center=true&vCenter=true&width=900&lines=fsociety@cracko34%3A~%24+sudo+su+-;Backend+%7C+Security+Researcher+%7C+Data+Analyst;Hacking+the+system...+one+vulnerability+at+a+time;%22Are+you+a+one+or+a+zero%3F%22;Power+belongs+to+the+people...+in+code+we+trust" />
 </p>
 
 
