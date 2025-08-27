@@ -33,12 +33,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00FF41&center=true&vCenter=true&width=900&lines=fsociety@cracko34%3A~%24+sudo+su+-;root@darknet%3A~%23+whoami;Backend+Developer+%7C+Security+Researcher+%7C+Data+Analyst;Hacking+the+system...+one+vulnerability+at+a+time;%22Are+you+a+one+or+a+zero%3F%22;Power+belongs+to+the+people...+in+code+we+trust" />
 </p>
 
-<!-- Mr Robot visitor counter -->
-<div align="center">
-  
-![fsociety](https://komarev.com/ghpvc/?username=Cracko34&style=for-the-badge&color=brightgreen&label=HACKED+BY)
-
-</div>
 
 ---
 
