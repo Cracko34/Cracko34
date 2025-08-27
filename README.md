@@ -21,8 +21,8 @@
   
 ```ascii
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
-║                      🎭 Estudiante de Licenciatura en Informática                    ║
-║                      "Control can sometimes be an illusion..."                       ║
+║                     💻Estudiante de Licenciatura en Informática💻                   ║
+║                       "Control can sometimes be an illusion..."                      ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -42,49 +42,18 @@
 
 ---
 
-### 🎭 Terminal Session
-
-<details>
-<summary>💻 <b>cracko34@fsociety:~$ cat /etc/profile</b></summary>
-
-```bash
-# ~/.bashrc: ejecutado por bash(1) para shells no-login.
-
-cracko34@fsociety:~$ whoami
-Estudiante de Licenciatura en Informática
-Especializado en: Backend | Seguridad Informática | Análisis de Datos
-
-cracko34@fsociety:~$ ls -la skills/
-total 1337
--rwxr-xr-x 1 cracko34 fsociety 4096 Aug 2024 backend_development/
--rwxr-xr-x 1 cracko34 fsociety 2048 Aug 2024 cybersecurity/
--rwxr-xr-x 1 cracko34 fsociety 8192 Aug 2024 data_analysis/
--rwxr-xr-x 1 cracko34 fsociety  512 Aug 2024 penetration_testing/
-
-cracko34@fsociety:~$ echo $FAVORITE_SHOW
-Mr. Robot - "Hello, friend. Hello, friend? That's lame."
-
-cracko34@fsociety:~$ uname -a
-Linux fsociety 5.15.0-kali3 x86_64 GNU/Linux
-Windows 11 Pro - Dual Boot Setup
-```
-
-</details>
-
----
-
 ### ⚡ Arsenal de Herramientas
 
 <div align="center">
 
-| **Core Languages** | **Backend & Analysis** | **Security Tools** | **Operating Systems** |
-|:---:|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white) | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) |
-| ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) | ![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) |
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white) | ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) |
-| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) | ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white) | ![ParrotOS](https://img.shields.io/badge/ParrotOS-15A085?style=for-the-badge&logo=parrotsecurity&logoColor=white) |
+|                                                **Core Languages**                                                 |                                              **Backend & Analysis**                                               |                                                **Security Tools**                                                 |                                               **Operating Systems**                                               |
+| :---------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
+|       ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)       |       ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)       |       ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)        |        ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)         |
+|       ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)        |        ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)         | ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white) |     ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)      |
+|        ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)         | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)   |       ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)       |
+| ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white) |       ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)       | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)  |       ![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)       |
+|           ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)            |        ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)         |          ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)          |       ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)       |
+|        ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)        |     ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)      |        ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)         | ![ParrotOS](https://img.shields.io/badge/ParrotOS-15A085?style=for-the-badge&logo=parrotsecurity&logoColor=white) |
 
 </div>
 
@@ -102,7 +71,7 @@ class FsocietyMember:
         self.status = "Estudiante de Licenciatura en Informática"
         self.location = "Matrix.reality"
         self.motivation = "Power belongs to the people"
-        
+
     def get_skills(self):
         return {
             "backend_development": {
@@ -124,7 +93,7 @@ class FsocietyMember:
                 "applications": "Business intelligence and predictive modeling"
             }
         }
-    
+
     def hack_the_planet(self):
         print("Hello, friend. Welcome to fsociety.")
         return "Access granted to the underground 🎭"
@@ -149,8 +118,9 @@ print(elliot.hack_the_planet())
 ```
 
 **Metodología de Trabajo:**
+
 - 🔍 **Reconocimiento**: OSINT y análisis de superficie de ataque
-- 🎯 **Enumeración**: Identificación de servicios y vulnerabilidades  
+- 🎯 **Enumeración**: Identificación de servicios y vulnerabilidades
 - ⚡ **Explotación**: Desarrollo de exploits éticos y controlados
 - 📊 **Análisis**: Procesamiento de datos para insights de seguridad
 - 🛡️ **Fortificación**: Implementación de contramedidas y hardening
@@ -223,13 +193,13 @@ Remember: "We are fsociety, we are everywhere." 🎭
 
 <div align="center">
 
-> *"Hello, friend. Hello, friend? That's lame. Maybe I should give you a name..."*
-> 
-> *"Control can sometimes be an illusion. But sometimes you need illusion to gain control."*
-> 
-> *"The bug has to be reproducible. If it's not reproducible, it's not a bug, it's a ghost."*
-> 
-> *"Power belongs to the people."*
+> _"Hello, friend. Hello, friend? That's lame. Maybe I should give you a name..."_
+>
+> _"Control can sometimes be an illusion. But sometimes you need illusion to gain control."_
+>
+> _"The bug has to be reproducible. If it's not reproducible, it's not a bug, it's a ghost."_
+>
+> _"Power belongs to the people."_
 
 </div>
 
