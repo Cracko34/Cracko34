@@ -1,8 +1,3 @@
-<!-- Mr Robot Terminal Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hello%20Friend&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=Welcome%20to%20the%20Underground&descAlign=50&descAlignY=65" width="100%"/>
-</div>
-
 <!-- ASCII ART -->
 <pre align="center">
   ▄████▄   ██▀███   ▄▄▄       ▄████▄   ██ ▄█▀ ▒█████    
@@ -28,6 +23,25 @@
 
 </div>
 
+<!-- Mr Robot Terminal Header -->
+<div align="center">
+<pre>
+┌─────────────────────────────────────────────────────────────────────┐
+│  ███████╗███████╗ ██████╗  ██████╗██╗███████╗████████╗██╗   ██╗     │
+│  ██╔════╝██╔════╝██╔═══██╗██╔════╝██║██╔════╝╚══██╔══╝╚██╗ ██╔╝     │
+│  █████╗  ███████╗██║   ██║██║     ██║█████╗     ██║    ╚████╔╝      │
+│  ██╔══╝  ╚════██║██║   ██║██║     ██║██╔══╝     ██║     ╚██╔╝       │
+│  ██║     ███████║╚██████╔╝╚██████╗██║███████╗   ██║      ██║        │
+│  ╚═╝     ╚══════╝ ╚═════╝  ╚═════╝╚═╝╚══════╝   ╚═╝      ╚═╝        │
+│                                                                     │
+│  cracko34@fsociety:~$ sudo su -                                     │
+│  [sudo] password for cracko34: ********                             │
+│  root@underground:~# whoami                                         │
+│  Hello, friend. Welcome to the system.                              │
+└─────────────────────────────────────────────────────────────────────┘
+</pre>
+</div>
+
 <!-- Mr. Robot style terminal typing -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00FF41&center=true&vCenter=true&width=900&lines=fsociety@cracko34%3A~%24+sudo+su+-;Backend+%7C+Security+Researcher+%7C+Data+Analyst;Hacking+the+system...+one+vulnerability+at+a+time;%22Are+you+a+one+or+a+zero%3F%22;Power+belongs+to+the+people...+in+code+we+trust" />
@@ -35,7 +49,6 @@
 
 
 ---
-
 ### ⚡ Arsenal de Herramientas
 <div align="center">
 
@@ -51,54 +64,7 @@
 </div>
 ---
 
-### 🎯 Áreas de Especialización
-
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-class FsocietyMember:
-    def __init__(self):
-        self.handle = "Cracko34"
-        self.status = "Estudiante de Licenciatura en Informática"
-        self.location = "Matrix.reality"
-        self.motivation = "Power belongs to the people"
-
-    def get_skills(self):
-        return {
-            "backend_development": {
-                "frameworks": ["Django", "Flask", "Spring Boot"],
-                "databases": ["PostgreSQL", "MySQL", "MongoDB"],
-                "apis": ["REST", "GraphQL", "WebSockets"],
-                "experience": "Building scalable server architectures"
-            },
-            "cybersecurity": {
-                "penetration_testing": ["OWASP Top 10", "Network Scanning", "Web App Testing"],
-                "tools": ["Metasploit", "Burp Suite", "Wireshark", "Nmap", "Aircrack-ng"],
-                "methodologies": ["PTES", "OWASP", "NIST"],
-                "focus": "Ethical hacking and vulnerability assessment"
-            },
-            "data_analysis": {
-                "libraries": ["Pandas", "NumPy", "Matplotlib", "Scikit-learn"],
-                "techniques": ["Statistical Analysis", "Data Mining", "Visualization"],
-                "tools": ["Jupyter", "R", "SQL", "Power BI"],
-                "applications": "Business intelligence and predictive modeling"
-            }
-        }
-
-    def hack_the_planet(self):
-        print("Hello, friend. Welcome to fsociety.")
-        return "Access granted to the underground 🎭"
-
-# Initialize the hacker
-elliot = FsocietyMember()
-print(elliot.hack_the_planet())
-```
-
 ---
-
-### 🔒 Security Mindset
-
 <div align="center">
 
 ```ascii
@@ -108,15 +74,6 @@ print(elliot.hack_the_planet())
 │                                        - Mr. Robot, S1E1    │
 └─────────────────────────────────────────────────────────────┘
 ```
-
-**Metodología de Trabajo:**
-
-- 🔍 **Reconocimiento**: OSINT y análisis de superficie de ataque
-- 🎯 **Enumeración**: Identificación de servicios y vulnerabilidades
-- ⚡ **Explotación**: Desarrollo de exploits éticos y controlados
-- 📊 **Análisis**: Procesamiento de datos para insights de seguridad
-- 🛡️ **Fortificación**: Implementación de contramedidas y hardening
-
 </div>
 
 ---
@@ -138,16 +95,6 @@ print(elliot.hack_the_planet())
 
 ---
 
-### 🏆 Achievement Unlocked
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Cracko34&theme=matrix&no-frame=true&row=1&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ### 🐍 Contribution Matrix (Snake in the System)
 
 <div align="center">
@@ -158,49 +105,31 @@ print(elliot.hack_the_planet())
 
 ---
 
-### 📡 Establishing Connection...
-
-<div align="center">
-
-```ascii
-┌─[fsociety@underground]─[~]
-└──╼ $ netstat -tuln | grep LISTEN
-```
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
-```ascii
-Connection established... You are not alone.
-Remember: "We are fsociety, we are everywhere." 🎭
-```
-
-</div>
-
----
-
-### 🎪 Mr. Robot Quotes
-
-<div align="center">
-
-> _"Hello, friend. Hello, friend? That's lame. Maybe I should give you a name..."_
->
-> _"Control can sometimes be an illusion. But sometimes you need illusion to gain control."_
->
-> _"The bug has to be reproducible. If it's not reproducible, it's not a bug, it's a ghost."_
->
-> _"Power belongs to the people."_
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=fsociety&fontSize=20&fontColor=ffffff" width="100%"/>
+<pre>
+   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+ ╱                                                                       ╲
+╱    ┌─────────────────────────────────────────────────────────────────┐  ╲
+│    │ cracko34@fsociety has left the chat                             │   │
+│    │ Last seen: Fighting the system                                  │   │
+│    │ Status: "Are you a 1 or a 0?"                                   │   │
+│    │                                                                 │   │
+│    │ [TRANSMISSION ENDED] - fsociety.exe stopped                     │   │
+│    └─────────────────────────────────────────────────────────────────┘   │
+╲                                                                         ╱
+ ╲▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂╱
+</pre>
 </div>
-
 <!-- Hidden Message for fellow hackers -->
 <!--
 01001000 01100101 01101100 01101100 01101111 00101100 00100000 01100110 01110010 01101001 01100101 01101110 01100100
