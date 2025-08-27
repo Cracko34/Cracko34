@@ -57,4 +57,3 @@
 
 ---
 
-<p align="center"><i>"Mr. Robot no es ficción, es inspiración..."</i></p>
